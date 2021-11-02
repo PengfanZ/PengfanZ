@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Pengfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PengfanZ)](https://github.com/anuraghazra/github-readme-stats)
+[![Pengfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PengfanZ&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PengfanZ/PengfanZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
